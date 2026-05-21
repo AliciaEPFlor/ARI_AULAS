@@ -1,0 +1,35 @@
+Circuito Eletrico
+
+
+                200 Ohms
+                Resistor (20 mA)
+    ____________/\  /\  /\_________
+    |             \/  \/           |
+    |                              |
+    |                              |
+_________                         __
+  _____                           \/    Led (2V)
+  | |                           ______  -> 2V
+  | |                              |    -> 0,02 A = 20 mA
+  | |                              |
+  | |______________________________|
+  |
+  Fonte (5V)
+
+
+Volts = Tensão eletrica (V)
+Amperé = Corrente eletrica (uso exessivo de um eletroeletronico) (A)
+Ohms = Medida de Resistencia
+
+Quimica em eletrica
+
+Protons = + (Positivo) -> Cations (Catodo)
+Eletrons = - (Negativo) -> Anions (Anodo)
+
+Linguagem C e C++
+VOID (definição)
+setup (configuração)
+
+void setup ()
+void loop ()
+pinMode -> OUTPUT/INPUT

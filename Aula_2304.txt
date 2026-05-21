@@ -1,3 +1,6 @@
 sudo apt upgrade && update
 sudo systemctl start ssh 
 sudo systemctl status shh 
+ 
+sudo ufw allow 2222
+sudo apt install python3-pip Flask
