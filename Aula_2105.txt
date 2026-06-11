@@ -16,6 +16,9 @@ _________                         __
   |
   Fonte (5V)
 
+Resistencia: Controlar a corrente de energia
+Fonte: Mandar a energia
+Led: Acende
 
 Volts = Tensão eletrica (V)
 Amperé = Corrente eletrica (uso exessivo de um eletroeletronico) (A)
